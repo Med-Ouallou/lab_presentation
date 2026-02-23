@@ -195,5 +195,6 @@ Dans Blade
 ```php
 @can('edit articles')
     <button>Edit</button>
+    
 @endcan
 ```
